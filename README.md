@@ -173,6 +173,3 @@ After launching:
 
 ---
 
-## Author
-
-Abhijit Mahadik
